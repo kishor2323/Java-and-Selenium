@@ -18,18 +18,7 @@ public class Alphabets {
          {
       	   System.out.print(ch+" ");
          }
-
-         
-       /*  
-        System.out.println("Uppercase Alphabets are ");
-         
-         for(char ch='A'; ch<='Z'; ch++)
-         {
-      	   System.out.print(ch+" ");
-         }*/
-         
-         
-         
+      
 	}
 
 }
