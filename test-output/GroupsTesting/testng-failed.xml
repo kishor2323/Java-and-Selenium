@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GroupsTesting]" parallel="methods">
+  <test thread-count="5" name="Groups(failed)" parallel="methods">
+    <classes>
+      <class name="testNG.FaceBook">
+        <methods>
+          <include name="openfacebook"/>
+          <include name="gender"/>
+          <include name="closefacebook"/>
+          <include name="username"/>
+          <include name="birthday"/>
+          <include name="password"/>
+          <include name="signup"/>
+          <include name="title"/>
+          <include name="username2"/>
+        </methods>
+      </class> <!-- testNG.FaceBook -->
+    </classes>
+  </test> <!-- Groups(failed) -->
+</suite> <!-- Failed suite [GroupsTesting] -->

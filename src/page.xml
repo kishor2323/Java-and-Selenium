@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GroupsTesting">
+<test name="Groups">
+	          <classes>
+		  <class name="testNG.TestMG">
+		  
+		  </class>
+		  
+		  
+		  <class name="testNG.TestNg">
+		  
+		  
+		  
+		  </class>
+	          </classes>	
+	      </test>
+           </suite>

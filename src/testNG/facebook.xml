@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GroupsTesting" parallel="methods">
+<test name="Groups">
+	          <classes>
+		  <class name="testNG.FaceBook"></class>
+		  
+		  <class name="testNG.FacebooksignIn"> </class>
+		  
+		 
+	          </classes>	
+	      </test>
+           </suite>

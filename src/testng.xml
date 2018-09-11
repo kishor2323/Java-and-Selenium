@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="KishorTesting" parallel="methods" thread-count="3">
+<test name="Groups">
+	          <classes>
+ 
+
+		  <class name="Mavenkishor.kishortest.TestEx1"></class>
+	  
+	       </classes>	
+	      </test>
+           </suite>

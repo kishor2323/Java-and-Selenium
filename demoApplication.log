@@ -1,0 +1,21 @@
+2018-09-01 14:46:25 INFO  Log4j:16 - -----------------New Testcvase----------------------
+2018-09-01 14:46:25 TRACE Log4j:17 - It is trace message
+2018-09-01 14:46:25 DEBUG Log4j:18 - Application is opened
+2018-09-01 14:46:25 INFO  Log4j:19 - Page is opened
+2018-09-01 14:46:25 WARN  Log4j:20 - It is warning message
+2018-09-01 14:46:25 ERROR Log4j:21 - It is error message
+2018-09-01 14:46:25 FATAL Log4j:22 - Fatal Message
+2018-09-01 14:53:02 DEBUG Log4j:75 - Application is opened
+2018-09-01 14:59:55 INFO  Log4j:16 - -----------------New Testcvase----------------------
+2018-09-01 14:59:55 DEBUG Log4j:18 - Application is opened
+2018-09-01 14:59:55 INFO  Log4j:19 - Page is opened
+2018-09-01 14:59:55 WARN  Log4j:20 - It is warning message
+2018-09-01 14:59:55 ERROR Log4j:21 - It is error message
+2018-09-01 14:59:55 FATAL Log4j:22 - Fatal Message
+2018-09-01 15:01:32 DEBUG Log4j:75 - Application is opened
+2018-09-06 15:33:15 INFO  Log4j:16 - -----------------New Testcvase----------------------
+2018-09-06 15:33:15 DEBUG Log4j:18 - Application is opened
+2018-09-06 15:33:15 INFO  Log4j:19 - Page is opened
+2018-09-06 15:33:15 WARN  Log4j:20 - It is warning message
+2018-09-06 15:33:15 ERROR Log4j:21 - It is error message
+2018-09-06 15:33:15 FATAL Log4j:22 - Fatal Message
